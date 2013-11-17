@@ -1,4 +1,4 @@
-ML---Breast-Cancer-prediction
+ML---Cancer-prediction
 =============================
 
 Using machine learning to predict benign or malignant breast cancer for the given data set.
