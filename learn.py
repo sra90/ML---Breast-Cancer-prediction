@@ -53,7 +53,7 @@ def costFunc(x,y,theta):
     
 def main():
     
-    data  = numpy.loadtxt("C:\Users\ROHIT\Machine Learning\Cancer Set\data.txt", delimiter=',')
+    data  = numpy.loadtxt("C:\Machine Learning\Cancer Set\data.txt", delimiter=',')
     #Taking 60%,20%,20% of input data for the training,cross validation and test set repectively
 
     #Training
